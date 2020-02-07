@@ -1,0 +1,16 @@
+package com.example.micro1;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Micro1ApplicationTests {
+	 
+	@Test
+	void contextLoads() {
+	}
+
+	@Test
+    public void run() throws Exception {
+    }
+}
